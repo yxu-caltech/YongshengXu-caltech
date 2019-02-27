@@ -1,6 +1,5 @@
 # YongshengXu-caltech
 David (Yongsheng) Xu, Ph.D.  
-David (Yongsheng) Xu, Ph.D.
 
 E-mail: yongsheng.xu@alumni.caltech.edu
 
